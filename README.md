@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahriar-tamjid
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Front-End Development
-- 💞️ Language Preference: JavaScript, PHP, Python, Java & SQL
+- 💞️ Language Preference: JavaScript, TypeScript, Node.js, Python, Java & SQL
 - 📫 Email: shahriar.tamjid@outlook.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/shahriar-tamjid-a027a81aa/
 
