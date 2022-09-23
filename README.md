@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahriar Tamjid
 - 👀 I'm always interested to learn about new technologies
-- 🌱 I’m on a mission to become a Full-Stack Developer
-- 💞️ I feel comfortable to work with Node.js, React.js and Django
+- 🌱 I’m a Software Developer and Data Analyst
+- 💞️ I feel comfortable to work with Python and JavaScript
 - 📫 Email: shahriartamjid@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/shahriar-tamjid/
 - 📷 Instagram: https://www.instagram.com/shahriar_develops/
