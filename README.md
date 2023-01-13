@@ -28,7 +28,7 @@
 
 ## GitHub Stats
 ![Shahriar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar-tamjid&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&theme=radical&hide=html,css)](https://github.com/shahriar-tamjid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&hide=html,css,c%2B%2B&theme=radical)](https://github.com/shahriar-tamjid/github-readme-stats)
 
 ## Connect With Me
 <div>
