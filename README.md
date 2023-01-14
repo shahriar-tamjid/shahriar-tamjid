@@ -7,13 +7,23 @@
 - Have a strong foundation in SQL and Python.
 - Drawing insights from data is something I really enjoy!
 
+## Connect With Me
+<div>
+  <a href="https://www.shahriar-tamjid.vercel.app" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
+  <a href="mailto:shahriartamjid@gmail.com" alt="shahriartamjid@gmail.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
+  <a href="https://www.linkedin.com/in/shahriar-tamjid/" alt="shahriar-tamjid" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874337-9ea0550e-6946-4c37-8798-47d9983a4d5a.png" alt="LinkedIn" width="30px" /></a>
+  <a href="https://www.instagram.com/shahriar_develops/" alt="@shahriar_develops" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874326-a850662b-7fc9-42ab-8b03-7551b90ecf05.png" alt="Instagram" width="30px" /></a>
+</div>
+<br>
+<br>
+
 ## Technical Skills
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Databases
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,13 +37,5 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## GitHub Stats
-![Shahriar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar-tamjid&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&hide=html,css,c%2B%2B&theme=radical)](https://github.com/shahriar-tamjid/github-readme-stats)
-
-## Connect With Me
-<div>
-  <a href="https://www.shahriar-tamjid.vercel.app" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
-  <a href="mailto:shahriartamjid@gmail.com" alt="shahriartamjid@gmail.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
-  <a href="https://www.linkedin.com/in/shahriar-tamjid/" alt="shahriar-tamjid" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874337-9ea0550e-6946-4c37-8798-47d9983a4d5a.png" alt="LinkedIn" width="30px" /></a>
-  <a href="https://www.instagram.com/shahriar_develops/" alt="@shahriar_develops" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874326-a850662b-7fc9-42ab-8b03-7551b90ecf05.png" alt="Instagram" width="30px" /></a>
-</div>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahriar-tamjid&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&layout=compact&hide=html,css,c%2B%2B&theme=radical" />
