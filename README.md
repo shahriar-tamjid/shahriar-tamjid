@@ -9,8 +9,8 @@
 
 ## Connect With Me
 <div>
-  <a href="https://www.shahriar-tamjid.vercel.app" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
-  <a href="mailto:shahriartamjid@gmail.com" alt="shahriartamjid@gmail.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
+  <a href="https://www.shahriartamjid.com" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
+  <a href="mailto:shahriar.tamjid@outlook.com" alt="shahriar.tamjid@outlook.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
   <a href="https://www.linkedin.com/in/shahriar-tamjid/" alt="shahriar-tamjid" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874337-9ea0550e-6946-4c37-8798-47d9983a4d5a.png" alt="LinkedIn" width="30px" /></a>
   <a href="https://www.instagram.com/shahriar_develops/" alt="@shahriar_develops" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874326-a850662b-7fc9-42ab-8b03-7551b90ecf05.png" alt="Instagram" width="30px" /></a>
 </div>
