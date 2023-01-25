@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/65736523/212925798-d4690c56-79f1-495c-9cca-711106d64b0e.png)
+![github-cover](https://user-images.githubusercontent.com/65736523/214500788-0af3cd61-62c9-43da-acb3-3ab70dabf421.png)
 
 # <p align="center">Hi there, I'm Shahriar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
@@ -37,7 +37,8 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## GitHub Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahriar-tamjid&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&layout=compact&hide=html,css,c%2B%2B&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&langs_count=6&layout=compact&hide=html,css&theme=radical" />
