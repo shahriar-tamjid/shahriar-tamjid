@@ -1,4 +1,4 @@
-![github-cover](https://user-images.githubusercontent.com/65736523/214500788-0af3cd61-62c9-43da-acb3-3ab70dabf421.png)
+![github-cover](https://user-images.githubusercontent.com/65736523/212925798-d4690c56-79f1-495c-9cca-711106d64b0e.png)
 
 # <p align="center">Hi there, I'm Shahriar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
@@ -10,7 +10,7 @@
 ## Connect With Me
 <div>
   <a href="https://shahriartamjid.vercel.app/" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
-  <a href="mailto:shahriar.tamjid@outlook.com" alt="shahriar.tamjid@outlook.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
+  <a href="mailto:shahriartamjid@gmail.com" alt="shahriartamjid@gmail.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
   <a href="https://www.linkedin.com/in/shahriar-tamjid/" alt="shahriar-tamjid" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874337-9ea0550e-6946-4c37-8798-47d9983a4d5a.png" alt="LinkedIn" width="30px" /></a>
   <a href="https://www.instagram.com/shahriar_develops/" alt="@shahriar_develops" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874326-a850662b-7fc9-42ab-8b03-7551b90ecf05.png" alt="Instagram" width="30px" /></a>
 </div>
@@ -19,11 +19,12 @@
 
 ## Technical Skills
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks & Databases
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
