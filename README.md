@@ -1,4 +1,4 @@
-![github-cover](https://user-images.githubusercontent.com/65736523/214500788-0af3cd61-62c9-43da-acb3-3ab70dabf421.png)
+![github-cover](https://user-images.githubusercontent.com/65736523/212925798-d4690c56-79f1-495c-9cca-711106d64b0e.png)
 
 # <p align="center">Hi there, I'm Shahriar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
