@@ -3,9 +3,7 @@
 # <p align="center">Hi there, I'm Shahriar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-- Frontend Developer with expertise in React.JS, Next.JS, React Native, and Flutter.
-- Skilled at creating polished applications from UI designs.
-- Passionate about creating engaging user experiences.
+I'm Shahriar Tamjid, a front-end developer specializing in React and Flutter. With 3 years of programming experience, I excel at transforming UI designs into seamless and intuitive applications. From responsive websites to dynamic web and mobile apps, I have the expertise to deliver polished products that exceed client expectations.
 
 ## Connect With Me
 <div>
