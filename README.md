@@ -3,7 +3,7 @@
 # <p align="center">Hi there, I'm Shahriar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-I'm Shahriar Tamjid, a front-end developer specializing in React and Flutter. With 3 years of programming experience, I excel at transforming UI designs into seamless and intuitive applications. I am committed to delivering exceptional results from responsive websites to dynamic web and mobile apps.
+I'm Shahriar Tamjid, a front-end developer specializing in React.JS and React Native. With 3 years of programming experience, I excel at transforming UI designs into seamless and intuitive applications. I am committed to delivering exceptional results from responsive websites to dynamic web and mobile apps.
 
 ## Connect With Me
 <div>
@@ -17,17 +17,15 @@ I'm Shahriar Tamjid, a front-end developer specializing in React and Flutter. Wi
 
 ## Technical Skills
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,4 +35,4 @@ I'm Shahriar Tamjid, a front-end developer specializing in React and Flutter. Wi
 
 ## GitHub Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahriar-tamjid&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&langs_count=6&layout=compact&hide=html,css&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-tamjid&langs_count=5&layout=compact&hide=html,css,php,c%23&theme=radical" />
