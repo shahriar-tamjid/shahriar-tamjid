@@ -3,7 +3,7 @@
 # <p align="center">Hi there, I'm Shahriar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-I'm Shahriar Tamjid, a front-end developer specializing in React.JS and React Native. I excel at transforming UI designs into seamless and intuitive applications. I am committed to delivering exceptional results from responsive websites to dynamic web and mobile apps.
+I'm Shahriar Tamjid, a front-end developer specializing in React.JS and React Native. I excel at transforming UI designs into seamless and intuitive applications. I am committed to delivering exceptional results from responsive websites to dynamic web and mobile apps..
 
 ## Connect With Me
 <div>
