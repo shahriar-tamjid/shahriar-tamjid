@@ -1,6 +1,6 @@
 ![GitHub-Cover](https://github.com/shahriar-tamjid/portfolio-v4/blob/main/src/assets/github-banner-tamjid.png)
 
-# <p align="center">Hi there, I'm Shahriar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
+# <p align="center">Hi there, I'm Tamjid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
 **Software Engineer** 💻 | Passionate about building web apps with **Node.js, React.js & Next.js** | Python enthusiast for **Data Analysis & ML** | Exploring **iOS Dev with Swift** 🍎
@@ -20,6 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
