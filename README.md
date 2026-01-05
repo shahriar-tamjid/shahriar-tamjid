@@ -15,6 +15,6 @@ I specialize in building scalable and robust enterprise-grade backend solutions.
 <br>
 
 ## My Tech Stack
-![Skills](https://skills.syvixor.com/api/icons?i=oracle,sqlserver,postgresql,java,python,js,ts,spring,graphql,node,nestjs,react,angular,docker,azure)
+![Skills](https://skills.syvixor.com/api/icons?i=oracle,postgresql,java,python,js,ts,spring,graphql,node,react,docker,aws)
 
 ###
