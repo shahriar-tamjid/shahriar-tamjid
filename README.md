@@ -3,7 +3,7 @@
 # <p align="center">Hi there, I'm Tamjid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-I specialize in building scalable and robust enterprise-grade backend solutions. I'm passionate about learning new technologies and writing clean, maintainable code. My core interests lie in system design and data engineering, where I focus on creating robust, efficient, and future-ready systems.
+Software Engineer focused on backend systems (Java, Spring Boot, Oracle, AWS). Exploring ML, Deep Learning, and LLMs with a research-first mindset. Open to building, breaking, and learning.
 
 ## Connect With Me
 <div>
