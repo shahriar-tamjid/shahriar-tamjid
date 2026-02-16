@@ -14,7 +14,10 @@ Software Engineer focused on backend systems (Java, Spring Boot, Oracle, AWS). E
 <br>
 <br>
 
-## My Tech Stack
-![Skills](https://skills.syvixor.com/api/icons?i=oracle,postgresql,java,python,js,ts,spring,graphql,node,react,docker,aws)
+## My Dev Tech Stack
+![Skills](https://skills.syvixor.com/api/icons?i=oracle,postgresql,java,ts,spring,graphql,node,nextjs,git,docker,aws)
+
+## My ML Tech Stack
+![Skills](https://skills.syvixor.com/api/icons?i=python,pytorch,tensorflow,numpy,pandas,scikitlearn,googlecolaboratory)
 
 ###
