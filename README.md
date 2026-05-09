@@ -3,7 +3,7 @@
 # <p align="center">Hi there, I'm Tamjid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-Software Engineer focused on backend systems (Java, Spring Boot, Oracle, AWS). Exploring ML, Deep Learning, and LLMs with a research-first mindset. Open to building, breaking, and learning.
+Software Engineer focused on Spring Boot based backend systems. Exploring ML, Deep Learning, and LLMs with a research-first mindset. Open to building, breaking, and learning.
 
 ## Connect With Me
 <div>
@@ -15,7 +15,7 @@ Software Engineer focused on backend systems (Java, Spring Boot, Oracle, AWS). E
 <br>
 
 ## My Dev Tech Stack
-![Skills](https://skills.syvixor.com/api/icons?i=oracle,postgresql,java,ts,spring,nextjs,git,docker,aws)
+![Skills](https://skills.syvixor.com/api/icons?i=spring,angular,nextjs,java,ts,oracle,postgresql,git,docker,aws)
 
 ## My ML Tech Stack
 ![Skills](https://skills.syvixor.com/api/icons?i=python,pytorch,tensorflow,numpy,pandas,scikitlearn,googlecolaboratory)
