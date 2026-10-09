@@ -15,7 +15,7 @@ Software Engineer focused on Spring Boot based backend systems. Exploring ML, De
 <br>
 
 ## My Dev Tech Stack
-![Skills](https://skills.syvixor.com/api/icons?i=spring,angular,nextjs,java,ts,oracle,postgresql,git,docker,aws)
+![Skills](https://skills.syvixor.com/api/icons?i=spring,java,nextjs,ts,oracle,postgresql,git,docker,aws)
 
 ## My ML Tech Stack
 ![Skills](https://skills.syvixor.com/api/icons?i=python,pytorch,tensorflow,numpy,pandas,scikitlearn,googlecolaboratory)
